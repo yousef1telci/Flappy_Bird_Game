@@ -63,9 +63,9 @@ namespace Flappy_Bird_Game.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap bg {
+        internal static System.Drawing.Bitmap bird__1__export {
             get {
-                object obj = ResourceManager.GetObject("bg", resourceCulture);
+                object obj = ResourceManager.GetObject("bird (1)-export", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +73,9 @@ namespace Flappy_Bird_Game.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap bird {
+        internal static System.Drawing.Bitmap pipe_llllexport___Kopya {
             get {
-                object obj = ResourceManager.GetObject("bird", resourceCulture);
+                object obj = ResourceManager.GetObject("pipe-llllexport - Kopya", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -83,19 +83,9 @@ namespace Flappy_Bird_Game.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap column2 {
+        internal static System.Drawing.Bitmap pipedownSSS_export {
             get {
-                object obj = ResourceManager.GetObject("column2", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap column2x {
-            get {
-                object obj = ResourceManager.GetObject("column2x", resourceCulture);
+                object obj = ResourceManager.GetObject("pipedownSSS-export", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
